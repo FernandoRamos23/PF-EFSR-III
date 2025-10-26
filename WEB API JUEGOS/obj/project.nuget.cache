@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ehZ8y/eRyxM=",
+  "dgSpecHash": "wf5gS6U7TL8=",
   "success": true,
-  "projectFilePath": "E:\\VSC 2022\\ProyectoSteam-Cambios\\WEB API JUEGOS\\WEB API JUEGOS.csproj",
+  "projectFilePath": "E:\\VSC 2022\\PF-EFSR-III\\WEB API JUEGOS\\WEB API JUEGOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rramo\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\rramo\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

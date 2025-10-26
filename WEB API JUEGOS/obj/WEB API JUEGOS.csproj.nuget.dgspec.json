@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSC 2022\\ProyectoSteam-Cambios\\WEB API JUEGOS\\WEB API JUEGOS.csproj": {}
+    "E:\\VSC 2022\\PF-EFSR-III\\WEB API JUEGOS\\WEB API JUEGOS.csproj": {}
   },
   "projects": {
-    "E:\\VSC 2022\\ProyectoSteam-Cambios\\WEB API JUEGOS\\WEB API JUEGOS.csproj": {
+    "E:\\VSC 2022\\PF-EFSR-III\\WEB API JUEGOS\\WEB API JUEGOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSC 2022\\ProyectoSteam-Cambios\\WEB API JUEGOS\\WEB API JUEGOS.csproj",
+        "projectUniqueName": "E:\\VSC 2022\\PF-EFSR-III\\WEB API JUEGOS\\WEB API JUEGOS.csproj",
         "projectName": "WEB API JUEGOS",
-        "projectPath": "E:\\VSC 2022\\ProyectoSteam-Cambios\\WEB API JUEGOS\\WEB API JUEGOS.csproj",
+        "projectPath": "E:\\VSC 2022\\PF-EFSR-III\\WEB API JUEGOS\\WEB API JUEGOS.csproj",
         "packagesPath": "C:\\Users\\rramo\\.nuget\\packages\\",
-        "outputPath": "E:\\VSC 2022\\ProyectoSteam-Cambios\\WEB API JUEGOS\\obj\\",
+        "outputPath": "E:\\VSC 2022\\PF-EFSR-III\\WEB API JUEGOS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
