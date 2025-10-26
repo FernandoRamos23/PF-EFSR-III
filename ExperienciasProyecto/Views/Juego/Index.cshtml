@@ -1,0 +1,244 @@
+﻿@model IEnumerable<ExperienciasProyecto.Models.Juego>
+@{
+    ViewBag.Title = "Juegos";
+}
+
+<!-- Estilos inspirados en Steam -->
+<style>
+    body {
+        background-color: #171a21;
+        color: #c7d5e0;
+        font-family: 'Segoe UI', sans-serif;
+    }
+
+    h2 {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        color: #66c0f4;
+        font-weight: 600;
+        text-align: center;
+        border-bottom: 2px solid #66c0f4;
+        padding-bottom: 10px;
+    }
+
+    .card-game {
+        background: linear-gradient(145deg, #1b1f26, #0e1014);
+        border: 1px solid #2a2a2a;
+        border-radius: 10px;
+        margin-bottom: 25px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.7);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .card-game:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 0 20px rgba(102, 192, 244, 0.5);
+        }
+
+    .card-img-top {
+        height: 200px;
+        object-fit: cover;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+
+    .card-body h4 {
+        color: #66c0f4;
+        font-size: 20px;
+    }
+
+    .card-footer {
+        border-top: 1px solid #2a2a2a;
+        padding-top: 10px;
+    }
+
+    .btn-action {
+        margin: 3px;
+    }
+
+    .btn {
+        font-size: 14px;
+        font-weight: bold;
+        border-radius: 4px;
+    }
+
+    .btn-primary {
+        background-color: #5c7e10;
+        border: none;
+    }
+
+        .btn-primary:hover {
+            background-color: #78a02d;
+        }
+
+    .btn-outline-light {
+        border-color: #66c0f4;
+        color: #66c0f4;
+    }
+
+        .btn-outline-light:hover {
+            background-color: #66c0f4;
+            color: #1b1f26;
+        }
+
+    .search-box input {
+        padding: 8px;
+        border-radius: 5px;
+        border: none;
+        width: 250px;
+        margin-right: 5px;
+        background-color: #2a2a2a;
+        color: #fff;
+    }
+
+    .search-box button {
+        background-color: #66c0f4;
+        color: #1b1f26;
+        border: none;
+        padding: 8px 16px;
+        border-radius: 5px;
+    }
+
+    .badge {
+        background-color: #2a475e;
+        color: #c7d5e0;
+        font-size: 12px;
+    }
+
+    .alert-success {
+        background-color: #2d6a4f;
+        color: #fff;
+        border: none;
+    }
+
+    .reseña {
+        font-size: 13px;
+        color: #ffc107;
+        font-style: italic;
+        margin-top: 6px;
+        animation: fadeInUp 0.8s ease-in-out;
+    }
+
+    keyframes fadeInUp {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+</style>
+
+<div class="container">
+    <h2>🎮 Catálogo de Juegos</h2>
+
+    @if (TempData["MensajeCompra"] != null)
+    {
+        <div class="alert alert-success text-center">
+            @TempData["MensajeCompra"]
+        </div>
+    }
+
+    <div class="text-center mb-3">
+        @if (Session["ID_USUARIO"] != null)
+        {
+            <p>
+                Bienvenido, <strong>@Session["NOMBRE_USUARIO"]</strong> |
+                @Html.ActionLink("Cerrar Sesión", "Logout", "Usuario", null, new { @class = "btn btn-danger btn-sm" })
+            </p>
+        }
+        else
+        {
+            <p>
+                @Html.ActionLink("Iniciar Sesión", "Login", "Usuario", null, new { @class = "btn btn-primary btn-sm" })
+            </p>
+        }
+    </div>
+
+    <div class="search-box text-center mb-4">
+        @using (Html.BeginForm("Buscar", "Juego", FormMethod.Get))
+        {
+            <input type="text" name="busqueda" placeholder="Buscar juego..." />
+            <button type="submit">Buscar</button>
+        }
+    </div>
+
+    <div class="text-center mb-4">
+        @if (Session["ROL"] != null && Session["ROL"].ToString() == "Admin")
+        {
+            @Html.ActionLink("➕ Agregar Nuevo", "InsertarJuego", "Juego", null, new { @class = "btn btn-success btn-sm btn-action" })
+        }
+
+        @Html.ActionLink("💰 Total Gastado", "TotalGastado", "Usuario", null, new { @class = "btn btn-success btn-sm btn-action" })
+        @Html.ActionLink("⭐ Recomendaciones", "Recomendaciones", "Juego", null, new { @class = "btn btn-info btn-sm btn-action" })
+        @Html.ActionLink("🛒 Ver Carrito", "Carrito", "Compra", null, new { @class = "btn btn-warning btn-sm btn-action" })
+        @Html.ActionLink("📜 Historial", "Historial", "Compra", null, new { @class = "btn btn-secondary btn-sm btn-action" })
+    </div>
+
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @foreach (var item in Model)
+        {
+            <div class="col">
+                <div class="card h-100 card-game">
+                    <img src="@item.IMAGEN_URL" class="card-img-top" alt="@item.NOMBRE" />
+                    <div class="card-body">
+                        <h4 class="card-title">@item.NOMBRE</h4>
+                        <p class="card-text">@item.DESCRIPCION</p>
+                        <p class="card-text">
+                            <strong>S/. @item.PRECIO</strong> |
+                            <span class="badge">@item.NOMBRE_CATEGORIA</span>
+                        </p>
+
+                        @* Reseñas fijas simuladas *@
+                        @{
+                            var reseñas = new List<string>
+                                        {
+                                "★★★★★ - “Uno de los mejores juegos que he probado este año.” - <strong>Camila</strong>",
+                                "★★★☆☆ - “Buen concepto pero podría estar más pulido.” - <strong>Rafael</strong>",
+                                "★★★★☆ - “Lo recomiendo, vale la pena cada sol.” - <strong>Esteban</strong>",
+                                "★★★☆☆ - “Muy entretenido, aunque tiene algunos bugs.” - <strong>Valeria</strong>",
+                                "★★★★★ - “Increíble historia y gráficos de otro nivel.” - <strong>Joel</strong>",
+                                "★★★☆☆ - “Un clásico moderno, aunque algo corto.” - <strong>Jazmín</strong>",
+                                "★★★★☆ - “Perfecto para jugar con amigos.” - <strong>Kevin</strong>",
+                                "★★☆☆☆ - “No fue lo que esperaba, muy repetitivo.” - <strong>Diana</strong>",
+                                "★★★★★ - “Lo terminé dos veces y aún quiero más.” - <strong>Alejandro</strong>",
+                                "★★★☆☆ - “Tiene potencial, pero falta optimización.” - <strong>Lucía</strong>"
+                            };
+
+                            var rnd = new Random(item.ID_JUEGO); // Semilla con ID
+                            var reseñaElegida = reseñas[rnd.Next(reseñas.Count)];
+                        }
+
+                        <div class="reseña">@Html.Raw(reseñaElegida)</div>
+                    </div>
+
+                    <div class="card-footer d-flex flex-wrap gap-1 justify-content-between">
+                        @Html.ActionLink("🔍 Ver Detalles", "Detalles", "Juego", new { id = item.ID_JUEGO }, new { @class = "btn btn-outline-light btn-sm" })
+
+                        @if (Session["ROL"] != null && Session["ROL"].ToString() == "Admin")
+                        {
+                            @Html.ActionLink("✏️ Editar", "EditarJuego", "Juego", new { id = item.ID_JUEGO }, new { @class = "btn btn-warning btn-sm" })
+                            @Html.ActionLink(item.ACTIVO ? "🚫 Desactivar" : "✅ Activar",
+                                              item.ACTIVO ? "DesactivarJuego" : "ActivarJuego",
+                                              "Juego",
+                                              new { id = item.ID_JUEGO },
+                                              new { @class = "btn btn-secondary btn-sm" })
+                        }
+                        else
+                        {
+                            @Html.ActionLink("🛒 Agregar al carrito", "AgregarAlCarrito", "Compra", new { id = item.ID_JUEGO }, new { @class = "btn btn-primary btn-sm" })
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    @* Paginación estilo Steam *@
+    <nav aria-label="Paginación">
+        <ul class="pagination justify-content-center mt-4">
+            @for (int i = 1; i <= ViewBag.TotalPages; i++)
+            {
+                <li class="page-item @(i == ViewBag.Page ? "active" : "")">
+                    @Html.ActionLink(i.ToString(), "Index", new { page = i }, new { @class = "page-link" })
+                </li>
+            }
+        </ul>
+    </nav>
+</div>

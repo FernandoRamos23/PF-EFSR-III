@@ -1,0 +1,244 @@
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\appsettings.Development.json
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\appsettings.json
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.staticwebassets.endpoints.json
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.exe
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.deps.json
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.runtimeconfig.json
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.pdb
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.csproj.AssemblyReference.cache
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.GeneratedMSBuildEditorConfig.editorconfig
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.AssemblyInfoInputs.cache
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.AssemblyInfo.cs
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.csproj.CoreCompileInputs.cache
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.MvcApplicationPartsAssemblyInfo.cs
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.MvcApplicationPartsAssemblyInfo.cache
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\scopedcss\bundle\WEB API JUEGOS.styles.css
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.build.json
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.development.json
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\WEB API .850D8E8D.Up2Date
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\refint\WEB API JUEGOS.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.pdb
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.genruntimeconfig.cache
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\ref\WEB API JUEGOS.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.sourcelink.json
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Azure.Core.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Azure.Identity.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\System.ClientModel.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\System.Memory.Data.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\ExperienciasProyecto\WEB API JUEGOS\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\appsettings.Development.json
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\appsettings.json
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.staticwebassets.endpoints.json
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.exe
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.deps.json
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.runtimeconfig.json
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.pdb
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Azure.Core.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Azure.Identity.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\System.ClientModel.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\System.Memory.Data.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.csproj.AssemblyReference.cache
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.AssemblyInfoInputs.cache
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.AssemblyInfo.cs
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.csproj.CoreCompileInputs.cache
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.MvcApplicationPartsAssemblyInfo.cs
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.MvcApplicationPartsAssemblyInfo.cache
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\scopedcss\bundle\WEB API JUEGOS.styles.css
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.build.json
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.development.json
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API .850D8E8D.Up2Date
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\refint\WEB API JUEGOS.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.pdb
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.genruntimeconfig.cache
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\ref\WEB API JUEGOS.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\appsettings.Development.json
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\appsettings.json
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.staticwebassets.endpoints.json
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.exe
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.deps.json
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.runtimeconfig.json
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\WEB API JUEGOS.pdb
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Azure.Core.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Azure.Identity.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\System.ClientModel.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\System.Memory.Data.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.csproj.AssemblyReference.cache
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.AssemblyInfoInputs.cache
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.AssemblyInfo.cs
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.csproj.CoreCompileInputs.cache
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.MvcApplicationPartsAssemblyInfo.cs
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.MvcApplicationPartsAssemblyInfo.cache
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\scopedcss\bundle\WEB API JUEGOS.styles.css
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.build.json
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.development.json
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API .850D8E8D.Up2Date
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\refint\WEB API JUEGOS.dll
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.pdb
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\WEB API JUEGOS.genruntimeconfig.cache
+E:\VSC 2022\ProyectoSteam-Cambios\WEB API JUEGOS\obj\Debug\net8.0\ref\WEB API JUEGOS.dll

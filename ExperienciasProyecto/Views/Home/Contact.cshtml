@@ -1,0 +1,301 @@
+﻿@{
+    ViewBag.Title = "Contacto";
+}
+
+<style>
+    /* Variables de color consistentes */
+    :root {
+        --primary-bg: #121212;
+        --secondary-bg: #1b1f26;
+        --accent-color: #66c0f4;
+        --accent-hover: #4fa3d1;
+        --text-primary: #f5f5f5;
+        --text-secondary: #c7d5e0;
+        --border-color: #2a2a2a;
+        --card-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+        --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    }
+
+    /* Estilos base */
+    body {
+        background-color: var(--primary-bg);
+        color: var(--text-primary);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        line-height: 1.6;
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    /* Sección de contacto */
+    .contact-section {
+        padding: 60px 0;
+        min-height: 80vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+        .contact-section h2 {
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+            background: linear-gradient(135deg, var(--accent-color), #00adee);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-align: center;
+        }
+
+        .contact-section .text-muted {
+            color: var(--text-secondary) !important;
+            font-size: 1.2rem;
+            margin-bottom: 50px;
+            text-align: center;
+        }
+
+    /* Información de contacto */
+    .contact-info {
+        background: var(--secondary-bg);
+        border-radius: 16px;
+        padding: 40px;
+        box-shadow: var(--card-shadow);
+        border: 1px solid var(--border-color);
+        height: fit-content;
+        transition: var(--transition);
+    }
+
+        .contact-info:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.6);
+        }
+
+        .contact-info h4 {
+            color: var(--accent-color);
+            font-size: 1.5rem;
+            margin-bottom: 25px;
+            font-weight: 600;
+            position: relative;
+            padding-bottom: 10px;
+        }
+
+            .contact-info h4::after {
+                content: '';
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 50px;
+                height: 3px;
+                background: linear-gradient(90deg, var(--accent-color), transparent);
+                border-radius: 3px;
+            }
+
+        .contact-info p {
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+        }
+
+        .contact-info strong {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+
+        .contact-info a {
+            color: var(--accent-color);
+            text-decoration: none;
+            transition: var(--transition);
+        }
+
+            .contact-info a:hover {
+                color: var(--accent-hover);
+                text-decoration: underline;
+            }
+
+    /* Redes sociales */
+    .social-section {
+        background: var(--secondary-bg);
+        border-radius: 16px;
+        padding: 40px;
+        box-shadow: var(--card-shadow);
+        border: 1px solid var(--border-color);
+        height: fit-content;
+        transition: var(--transition);
+    }
+
+        .social-section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.6);
+        }
+
+        .social-section h4 {
+            color: var(--accent-color);
+            font-size: 1.5rem;
+            margin-bottom: 25px;
+            font-weight: 600;
+            position: relative;
+            padding-bottom: 10px;
+        }
+
+            .social-section h4::after {
+                content: '';
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 50px;
+                height: 3px;
+                background: linear-gradient(90deg, var(--accent-color), transparent);
+                border-radius: 3px;
+            }
+
+    .social-icons {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .social-icon {
+        display: flex;
+        align-items: center;
+        padding: 15px 20px;
+        background: rgba(255, 255, 255, 0.05);
+        border-radius: 12px;
+        border: 1px solid var(--border-color);
+        transition: var(--transition);
+        text-decoration: none;
+        color: var(--text-secondary);
+    }
+
+        .social-icon:hover {
+            background: rgba(102, 192, 244, 0.1);
+            border-color: var(--accent-color);
+            transform: translateX(10px);
+        }
+
+        .social-icon img {
+            width: 32px;
+            height: 32px;
+            margin-right: 15px;
+            filter: brightness(0.8);
+            transition: var(--transition);
+        }
+
+        .social-icon:hover img {
+            filter: brightness(1) saturate(1.2);
+            transform: scale(1.1);
+        }
+
+        .social-icon a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1.1rem;
+            transition: var(--transition);
+        }
+
+        .social-icon:hover a {
+            color: var(--accent-color);
+        }
+
+    /* Animaciones */
+    @@keyframes fadeInUp {
+        from {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .animate-fade-in {
+        animation: fadeInUp 0.8s ease-out forwards;
+    }
+
+    .delay-1 {
+        animation-delay: 0.1s;
+    }
+
+    .delay-2 {
+        animation-delay: 0.2s;
+    }
+
+    /* Responsive */
+    @@media (max-width: 768px) {
+        .contact-section {
+            padding: 40px 0;
+        }
+
+            .contact-section h2 {
+                font-size: 2.2rem;
+            }
+
+        .contact-info,
+        .social-section {
+            padding: 30px 25px;
+            margin-bottom: 30px;
+        }
+
+        .social-icon {
+            padding: 12px 15px;
+        }
+
+            .social-icon a {
+                font-size: 1rem;
+            }
+    }
+
+    @@media (max-width: 576px) {
+        .contact-section h2 {
+            font-size: 1.8rem;
+        }
+
+        .contact-section .text-muted {
+            font-size: 1rem;
+        }
+
+        .contact-info h4,
+        .social-section h4 {
+            font-size: 1.3rem;
+        }
+    }
+</style>
+
+<main class="container contact-section">
+    <h2 class="animate-fade-in">Contáctanos</h2>
+    <p class="text-center text-muted animate-fade-in delay-1">¿Tienes preguntas o necesitas soporte? ¡Estamos aquí para ayudarte!</p>
+
+    <div class="row mt-4">
+        <div class="col-md-6 animate-fade-in delay-1">
+            <div class="contact-info">
+                <h4>Atención al cliente</h4>
+                <p><strong>Teléfono:</strong> +51 947 809 085</p>
+                <p><strong>Email:</strong> <a href="mailto:soporte@gameverse.com">soporte@gameverse.com</a></p>
+                <p><strong>Dirección:</strong> Av. Gaming 123, Lima, Perú</p>
+            </div>
+        </div>
+        <div class="col-md-6 animate-fade-in delay-2">
+            <div class="social-section">
+                <h4>Redes Sociales</h4>
+                <div class="social-icons">
+                    <div class="social-icon">
+                        <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" />
+                        <a href="https://facebook.com" target="_blank">Síguenos en Facebook</a>
+                    </div>
+                    <div class="social-icon">
+                        <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" />
+                        <a href="https://twitter.com" target="_blank">Síguenos en Twitter</a>
+                    </div>
+                    <div class="social-icon">
+                        <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" />
+                        <a href="https://instagram.com" target="_blank">Síguenos en Instagram</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

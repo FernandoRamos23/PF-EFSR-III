@@ -1,0 +1,716 @@
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\ExperienciasProyecto.dll.config
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\ExperienciasProyecto.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\ExperienciasProyecto.pdb
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csc.exe
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csc.exe.config
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csc.rsp
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csi.exe
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csi.exe.config
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csi.rsp
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.AppContext.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Console.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\vbc.exe
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\vbc.exe.config
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\vbc.rsp
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\Antlr3.Runtime.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\Newtonsoft.Json.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Helpers.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Mvc.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Optimization.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Razor.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.Razor.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\WebGrease.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Helpers.xml
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Mvc.xml
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Optimization.xml
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Razor.xml
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.xml
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.Razor.xml
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\Newtonsoft.Json.xml
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\Antlr3.Runtime.pdb
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.csproj.AssemblyReference.cache
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\Experien.F1CFC4A2.Up2Date
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.dll
+C:\Users\Victor Ramos Guinea\Downloads\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.pdb
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\ExperienciasProyecto.dll.config
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\ExperienciasProyecto.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\ExperienciasProyecto.pdb
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csc.exe
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csc.exe.config
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csc.rsp
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csi.exe
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csi.exe.config
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csi.rsp
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.Managed.Core.targets
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.AppContext.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Collections.Immutable.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Console.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Globalization.Calendars.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.IO.Compression.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.IO.FileSystem.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Net.Http.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Net.Sockets.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Reflection.Metadata.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.ValueTuple.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Xml.XPath.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\vbc.exe
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\vbc.exe.config
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\vbc.rsp
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\VBCSCompiler.exe
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\VBCSCompiler.exe.config
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\Antlr3.Runtime.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Web.Infrastructure.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\Newtonsoft.Json.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Helpers.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Mvc.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Optimization.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Razor.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.Deployment.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.Razor.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\WebGrease.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Helpers.xml
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Mvc.xml
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Optimization.xml
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Razor.xml
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.xml
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.Deployment.xml
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.Razor.xml
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\Newtonsoft.Json.xml
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\Antlr3.Runtime.pdb
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.Helpers.resources.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.Mvc.resources.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.Optimization.resources.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.Razor.resources.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.WebPages.resources.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.csproj.AssemblyReference.cache
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.csproj.CoreCompileInputs.cache
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\Experien.F1CFC4A2.Up2Date
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.dll
+F:\CIBERTEC\POO2967\POO2967\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.pdb
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\ExperienciasProyecto.dll.config
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\ExperienciasProyecto.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\ExperienciasProyecto.pdb
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csc.exe
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csc.exe.config
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csc.rsp
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csi.exe
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csi.exe.config
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\csi.rsp
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.AppContext.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Collections.Immutable.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Console.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Globalization.Calendars.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.IO.Compression.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.IO.FileSystem.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Net.Http.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Net.Sockets.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Reflection.Metadata.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.ValueTuple.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Xml.XPath.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\vbc.exe
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\vbc.exe.config
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\vbc.rsp
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\VBCSCompiler.exe
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\roslyn\VBCSCompiler.exe.config
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Antlr3.Runtime.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Web.Infrastructure.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Newtonsoft.Json.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Helpers.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Mvc.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Optimization.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Razor.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.Deployment.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.Razor.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\WebGrease.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Helpers.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Mvc.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Optimization.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.Razor.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.Deployment.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Web.WebPages.Razor.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Newtonsoft.Json.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Antlr3.Runtime.pdb
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.Helpers.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.Mvc.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.Optimization.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.Razor.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.WebPages.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.csproj.AssemblyReference.cache
+F:\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.csproj.CoreCompileInputs.cache
+F:\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\Experien.F1CFC4A2.Up2Date
+F:\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.pdb
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Azure.Core.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Azure.Identity.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.AspNetCore.Http.Features.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Bcl.Cryptography.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Data.SqlClient.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Extensions.Caching.Memory.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Extensions.Options.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Extensions.Primitives.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Identity.Client.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.IdentityModel.Abstractions.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.IdentityModel.Logging.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.IdentityModel.Protocols.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.IdentityModel.Tokens.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Net.Http.Headers.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Buffers.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.ClientModel.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Diagnostics.DiagnosticSource.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.IO.FileSystem.AccessControl.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Memory.Data.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Memory.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Numerics.Vectors.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Security.AccessControl.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Security.Cryptography.Pkcs.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Security.Cryptography.ProtectedData.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Security.Principal.Windows.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Text.Encodings.Web.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Text.Json.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Threading.Tasks.Extensions.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.ValueTuple.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Azure.Core.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Azure.Identity.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.AspNetCore.Http.Features.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Bcl.AsyncInterfaces.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Bcl.Cryptography.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Data.SqlClient.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Extensions.Caching.Abstractions.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Extensions.Caching.Memory.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Extensions.Options.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Extensions.Primitives.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Identity.Client.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.IdentityModel.Abstractions.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.IdentityModel.Logging.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.IdentityModel.Protocols.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.IdentityModel.Tokens.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\Microsoft.Net.Http.Headers.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Buffers.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.ClientModel.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Diagnostics.DiagnosticSource.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.IO.FileSystem.AccessControl.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Memory.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Memory.Data.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Numerics.Vectors.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Security.AccessControl.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Security.Cryptography.Pkcs.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Security.Principal.Windows.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Text.Encodings.Web.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Text.Json.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.Threading.Tasks.Extensions.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\System.ValueTuple.xml
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\cs\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\de\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\es\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\fr\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\it\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\ja\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\ko\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\pl\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\ru\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\tr\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\ExperienciasProyecto\ExperienciasProyecto\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\ExperienciasProyecto.dll.config
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\ExperienciasProyecto.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\ExperienciasProyecto.pdb
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\csc.exe
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\csc.exe.config
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\csc.rsp
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\csi.exe
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\csi.exe.config
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\csi.rsp
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.Managed.Core.targets
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.AppContext.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Collections.Immutable.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Console.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Globalization.Calendars.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.IO.Compression.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.IO.FileSystem.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Net.Http.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Net.Sockets.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Reflection.Metadata.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.ValueTuple.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Xml.XPath.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\vbc.exe
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\vbc.exe.config
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\vbc.rsp
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\VBCSCompiler.exe
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\VBCSCompiler.exe.config
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Antlr3.Runtime.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Azure.Core.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Azure.Identity.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Bcl.Cryptography.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Data.SqlClient.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Options.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Primitives.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Identity.Client.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Logging.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Protocols.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Tokens.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Net.Http.Headers.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Web.Infrastructure.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Newtonsoft.Json.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Buffers.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.ClientModel.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Diagnostics.DiagnosticSource.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.IO.FileSystem.AccessControl.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Memory.Data.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Memory.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Numerics.Vectors.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Security.AccessControl.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Security.Cryptography.Pkcs.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Security.Cryptography.ProtectedData.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Security.Principal.Windows.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Text.Encodings.Web.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Text.Json.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Threading.Tasks.Extensions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.ValueTuple.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.Helpers.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.Mvc.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.Optimization.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.WebPages.Deployment.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.WebPages.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.WebPages.Razor.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\WebGrease.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Azure.Core.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Azure.Identity.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Bcl.Cryptography.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Data.SqlClient.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Options.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Primitives.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Identity.Client.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Logging.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Protocols.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Tokens.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Net.Http.Headers.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Buffers.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.ClientModel.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Diagnostics.DiagnosticSource.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.IO.FileSystem.AccessControl.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Memory.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Memory.Data.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Numerics.Vectors.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Security.AccessControl.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Security.Cryptography.Pkcs.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Security.Principal.Windows.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Text.Encodings.Web.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Text.Json.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Threading.Tasks.Extensions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.ValueTuple.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.Helpers.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.Mvc.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.Optimization.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.Razor.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.WebPages.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.WebPages.Deployment.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.WebPages.Razor.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Newtonsoft.Json.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Antlr3.Runtime.pdb
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\cs\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\de\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\fr\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\it\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\ja\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\ko\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\pl\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\ru\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\tr\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\System.Web.Helpers.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\System.Web.Mvc.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\System.Web.Optimization.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\System.Web.Razor.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\System.Web.WebPages.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.csproj.AssemblyReference.cache
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.csproj.CoreCompileInputs.cache
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\obj\Debug\Experien.F1CFC4A2.Up2Date
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ProyectoSteam-Cambios\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.pdb
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\ExperienciasProyecto.dll.config
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\ExperienciasProyecto.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\ExperienciasProyecto.pdb
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\csc.exe
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\csc.exe.config
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\csc.rsp
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\csi.exe
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\csi.exe.config
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\csi.rsp
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.Managed.Core.targets
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.AppContext.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Collections.Immutable.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Console.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Globalization.Calendars.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.IO.Compression.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.IO.FileSystem.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Net.Http.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Net.Sockets.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Reflection.Metadata.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.ValueTuple.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Xml.XPath.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\vbc.exe
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\vbc.exe.config
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\vbc.rsp
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\VBCSCompiler.exe
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\roslyn\VBCSCompiler.exe.config
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Antlr3.Runtime.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Azure.Core.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Azure.Identity.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Bcl.Cryptography.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Data.SqlClient.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Options.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Primitives.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Identity.Client.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Abstractions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Logging.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Protocols.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Tokens.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Net.Http.Headers.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Web.Infrastructure.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Newtonsoft.Json.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Buffers.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.ClientModel.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Diagnostics.DiagnosticSource.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.IO.FileSystem.AccessControl.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Memory.Data.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Memory.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Numerics.Vectors.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Security.AccessControl.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Security.Cryptography.Pkcs.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Security.Cryptography.ProtectedData.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Security.Principal.Windows.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Text.Encodings.Web.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Text.Json.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Threading.Tasks.Extensions.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.ValueTuple.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.Helpers.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.Mvc.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.Optimization.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.WebPages.Deployment.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.WebPages.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.WebPages.Razor.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\WebGrease.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Azure.Core.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Azure.Identity.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Bcl.Cryptography.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Data.SqlClient.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Options.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Extensions.Primitives.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Identity.Client.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Abstractions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Logging.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Protocols.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.IdentityModel.Tokens.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.Net.Http.Headers.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Buffers.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.ClientModel.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Diagnostics.DiagnosticSource.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.IO.FileSystem.AccessControl.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Memory.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Memory.Data.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Numerics.Vectors.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Security.AccessControl.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Security.Cryptography.Pkcs.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Security.Principal.Windows.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Text.Encodings.Web.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Text.Json.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Threading.Tasks.Extensions.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.ValueTuple.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.Helpers.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.Mvc.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.Optimization.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.Razor.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.WebPages.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.WebPages.Deployment.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\System.Web.WebPages.Razor.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Newtonsoft.Json.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Antlr3.Runtime.pdb
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\cs\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\de\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\fr\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\it\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\ja\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\ko\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\pl\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\ru\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\tr\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\System.Web.Helpers.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\System.Web.Mvc.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\System.Web.Optimization.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\System.Web.Razor.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\System.Web.WebPages.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.csproj.AssemblyReference.cache
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.csproj.CoreCompileInputs.cache
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\obj\Debug\Experien.F1CFC4A2.Up2Date
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.dll
+E:\VSC 2022\ProyectoSteam-Cambios\ExperienciasProyecto\obj\Debug\ExperienciasProyecto.pdb
